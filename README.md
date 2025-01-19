@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Sosyal Medya ve İletişim
-- **GitHub**: [github.com/kullanıcı_adın](https://github.com/kullanıcı_adın)
+- **GitHub**: [github.com/ahmet5757](https://github.com/kullanıcı_adın)
 - **LinkedIn**: [linkedin.com/in/kullanıcı_adın](https://linkedin.com/in/kullanıcı_adın)
 - **E-posta**: [email@domain.com](mailto:email@domain.com)
 
