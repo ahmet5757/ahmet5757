@@ -9,8 +9,8 @@
 
 ### 🌐 Sosyal Medya ve İletişim
 - **GitHub**: [github.com/ahmet5757](https://github.com/kullanıcı_adın)
-- **LinkedIn**: [[linkedin.com/in/kullanıcı_adın](https://www.linkedin.com/in/ahmet-ba%C5%9F-/)]([https://linkedin.com/in/kullanıcı_adın](https://www.linkedin.com/in/ahmet-ba%C5%9F-/))
-- **E-posta**: [email@domain.com](mailto:aahmetbass@outlook.com)
+- **LinkedIn**: [ahmet-baş]([https://linkedin.com/in/kullanıcı_adın](https://www.linkedin.com/in/ahmet-ba%C5%9F-/))
+- **E-posta**: [aahmetbass@outlook.com](mailto:aahmetbass@outlook.com)
 
 ---
 
