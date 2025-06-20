@@ -10,7 +10,7 @@
 ### 🌐 Sosyal Medya ve İletişim
 - **GitHub**: [github.com/ahmet5757](https://github.com/ahmet5757)
 - **LinkedIn**: [Ahmet Baş](https://www.linkedin.com/in/ahmet-ba%C5%9F-/)
-- **E-posta**: [aahmetbass@outlook.com](mailto:aahmetbass@outlook.com)
+- **E-posta**: [aahmetbass57@gmail.com](mailto:aahmetbass57@gmail.com)
 
 ---
 
